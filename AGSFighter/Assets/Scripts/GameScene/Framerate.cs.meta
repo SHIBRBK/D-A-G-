@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:AGSFighter/Assets/Scripts/GameScene/HPGauge.cs.meta
+guid: e6a6200728ffe1740bb5a1fa4dadc093
+========
+guid: 81906418df986db4ebb2501c0f0e3fb5
+>>>>>>>> 07f228cf93ba32caa7a3d8208152331d6a64e48a:AGSFighter/Assets/Scripts/GameScene/Framerate.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

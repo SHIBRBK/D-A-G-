@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:AGSFighter/Assets/Scripts/GameScene/Player/ColRightArm.cs.meta
+guid: 99ef727d2c29ea84baaeee7b3bd4e108
+========
+guid: 5b16d5a4bfd93114385ecd01f00a6914
+>>>>>>>> 94a0ddcdbab753805265c6889f0a15de10429ff6:AGSFighter/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/TestCompilerAttribute.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

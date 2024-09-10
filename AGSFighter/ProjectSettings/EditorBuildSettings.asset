@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: a6d62396f920367458d5a3a3f0a1f127
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 463aed66c18125840b9084313ba99bee
+  - enabled: 1
+    path: Assets/Scenes/SelectModeScene.unity
+    guid: 2ef8d8373452dcc4ab6f8c1f0572b856
+  - enabled: 1
+    path: Assets/Scenes/SelectStageScene.unity
+    guid: a89ea8afef947264b9ecd5337aa0c8f6
+  - enabled: 1
+    path: Assets/Scenes/SelectStage1.unity
+    guid: 9cd40576f68cf7f4484dc13437d4e7e9
+  - enabled: 1
+    path: Assets/Scenes/SelectStage2.unity
+    guid: 15b9d8d182a10f54e83137daa13ee9c9
+  - enabled: 1
+    path: Assets/Scenes/SelectStage3.unity
+    guid: e29fb71dc08e71f4097bc88c30f860d6
+  - enabled: 1
+    path: Assets/Scenes/SoloGameScene.unity
+    guid: e967cf5c052276c4fb0133a8134bf373
+  - enabled: 1
+    path: Assets/Scenes/EndGameScene.unity
+    guid: e49e0ed94fdb75e479f33bcd611c4a20
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 5941d0e9290a9df4387afc2e7c9f3c73, type: 2}

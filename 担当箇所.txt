@@ -1,0 +1,17 @@
+私のの担当した箇所
+・SoundManager
+・AttackManager
+・RoundManager
+・PlayerHit→AttackManagerに基づいて
+・ProjectileDamageDictionary
+・PadSelectMode
+・PadStageSelect
+・SoloGameSceneを除く各シーン
+・FadeController
+・CountDown
+・HPGauge
+・VolumeSlider→SoundManagerの音量調節関数に紐づいてる
+・SkyChange→ステージでの昼夜の概念
+
+・UI→HP、音量調節、選択
+・一部のアニメーションの製作

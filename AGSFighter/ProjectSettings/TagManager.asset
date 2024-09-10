@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Car
+  - Attack
+  - Tutorial
+  - Tuto1
+  - Tuto2
+  - Edge
+  - Projectile
+  - Player1
+  - Player2
+  - Throw
+  - Fade
+  - Guard
+  - Thrown1
+  - Thrown2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Inversion
+  - Car
+  - Tutorial
+  - Player1
+  - Player2
+  - P1Col
+  - P2Col
+  - JumpPlayer
+  - Throw
+  - HitNow
+  - Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

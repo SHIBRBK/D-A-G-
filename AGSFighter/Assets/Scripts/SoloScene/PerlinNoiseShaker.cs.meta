@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:AGSFighter/Assets/Scripts/SoloScene/PerlinNoiseShaker.cs.meta
+guid: efb69a4d8583b7045993984ad1d760ee
+========
+guid: fc335ab357eef1346a23bc792570d94e
+>>>>>>>> 94a0ddcdbab753805265c6889f0a15de10429ff6:AGSFighter/Library/PackageCache/com.unity.mathematics@1.1.0/Tests/Tests/Shared/TestBool2.gen.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

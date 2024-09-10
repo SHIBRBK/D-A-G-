@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 95eee5cec1306f444aca92ede0de4e53
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Emizen
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64e44a444e916964b8252860dcb76935, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

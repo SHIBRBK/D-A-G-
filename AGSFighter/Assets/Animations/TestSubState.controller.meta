@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:AGSFighter/Assets/Animations/TestSubState.controller.meta
+guid: a318c851f40335c41b040e47127480e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+========
+guid: a7bc78db54c5e454390e4de659dabedf
+timeCreated: 1519213752
+licenseType: Pro
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+>>>>>>>> 07f228cf93ba32caa7a3d8208152331d6a64e48a:AGSFighter/Assets/UnityChanTPK/Models/04_yuji/Materials/Yuji_Body.mat.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
